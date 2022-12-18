@@ -1,0 +1,11 @@
+{
+    "name": "aliborna/user-service",
+    "autoload": {
+        "psr-4": {
+            "Aliborna\\UserService\\": "src/"
+        }
+    },
+    "require": {
+        "laravel/framework": "^9.42"
+    }
+}
